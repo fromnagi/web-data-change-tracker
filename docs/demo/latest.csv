@@ -1,0 +1,4 @@
+﻿source,source_url,external_id,title,category,numeric_value,availability,rating,author,tags,collected_at,content_hash
+books,https://books.toscrape.com/catalogue/alpha_1/index.html,https://books.toscrape.com/catalogue/alpha_1/index.html,Alpha Book,book,13.3,In stock,3,,,2026-01-02T00:00:00+00:00,9a33a0ddfe7d066819a133a924a1791d9b0f0a1995a790aefe06748146398679
+books,https://books.toscrape.com/catalogue/gamma_3/index.html,https://books.toscrape.com/catalogue/gamma_3/index.html,Gamma Book,book,3.45,In stock,1,,,2026-01-02T00:00:00+00:00,5e8e09214b91ee482373cfc672d787c2ae805f58c82f3a3fea1b0303b34d1463
+quotes,https://quotes.toscrape.com/js/,0143006ad93ef27c01597baed1fd689b69a6c0772966e892871264718d7f74a9,“A short quote.”,quote,,,,Example Writer,example; simple,2026-01-02T00:00:00+00:00,83e06cb0b33c81dc045375c3069b10b152338c319752d14380a41bcde02c78e9

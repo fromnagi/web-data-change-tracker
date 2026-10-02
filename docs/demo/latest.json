@@ -1,0 +1,47 @@
+[
+  {
+    "author": null,
+    "availability": "In stock",
+    "category": "book",
+    "collected_at": "2026-01-02T00:00:00+00:00",
+    "content_hash": "9a33a0ddfe7d066819a133a924a1791d9b0f0a1995a790aefe06748146398679",
+    "external_id": "https://books.toscrape.com/catalogue/alpha_1/index.html",
+    "numeric_value": 13.3,
+    "rating": 3,
+    "source": "books",
+    "source_url": "https://books.toscrape.com/catalogue/alpha_1/index.html",
+    "tags": [],
+    "title": "Alpha Book"
+  },
+  {
+    "author": null,
+    "availability": "In stock",
+    "category": "book",
+    "collected_at": "2026-01-02T00:00:00+00:00",
+    "content_hash": "5e8e09214b91ee482373cfc672d787c2ae805f58c82f3a3fea1b0303b34d1463",
+    "external_id": "https://books.toscrape.com/catalogue/gamma_3/index.html",
+    "numeric_value": 3.45,
+    "rating": 1,
+    "source": "books",
+    "source_url": "https://books.toscrape.com/catalogue/gamma_3/index.html",
+    "tags": [],
+    "title": "Gamma Book"
+  },
+  {
+    "author": "Example Writer",
+    "availability": null,
+    "category": "quote",
+    "collected_at": "2026-01-02T00:00:00+00:00",
+    "content_hash": "83e06cb0b33c81dc045375c3069b10b152338c319752d14380a41bcde02c78e9",
+    "external_id": "0143006ad93ef27c01597baed1fd689b69a6c0772966e892871264718d7f74a9",
+    "numeric_value": null,
+    "rating": null,
+    "source": "quotes",
+    "source_url": "https://quotes.toscrape.com/js/",
+    "tags": [
+      "example",
+      "simple"
+    ],
+    "title": "“A short quote.”"
+  }
+]
